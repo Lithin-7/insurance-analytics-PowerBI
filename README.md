@@ -11,7 +11,7 @@ The goal of this project is to deliver actionable insights for insurance busines
 This repository contains the **Insurance Analytics Dashboard Report (PDF)**, showcasing detailed premium trends, claims analysis, and performance benchmarking.  
 *Note:* The original dashboard (e.g., Power BI or Tableau format) is not included; please refer to the PDF for all visuals and insights.
 
-📥 [Download Full Dashboard (PDF)](./Insurance-Dashboard.pdf)
+📥 [Download Full Dashboard (PDF)](./Insurance%20Dashboard.pdf)
 
 ---
 
@@ -93,7 +93,7 @@ Insurance-Analytics-PowerBI/
 │
 ├── Insurance Dashboard.pdf # Full-report with visuals and analysis
 ├── README.md # This documentation file
-
+'''
 
 ---
 
@@ -108,8 +108,8 @@ Insurance-Analytics-PowerBI/
 
 ## 🔗 Connect with Me
 
-- LinkedIn: [Your Name](your-linkedin-url)
-- Portfolio: [your-website.com]
+- 💼 [LinkedIn – SREE VENKATA LITHIN VARMA.S](https://www.linkedin.com/in/lithinvarma)
+- 📧 Email: lithinvarma.s@gmail.com
 
 ---
 
