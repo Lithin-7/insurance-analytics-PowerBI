@@ -88,12 +88,13 @@ The dashboard captures the insurance business's financial health, claims operati
 ---
 
 ## 📂 Project Structure
-'''
-Insurance-Analytics-PowerBI/
+```
+Insurance-analytics-PowerBI/
 │
-├── Insurance Dashboard.pdf # Full-report with visuals and analysis
-├── README.md # This documentation file
-'''
+├── Insurance Dashboard.pdf    # Complete Power BI report in PDF format
+└── README.md                     # This documentation file
+```
+
 
 ---
 
